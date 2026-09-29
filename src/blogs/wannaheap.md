@@ -8,7 +8,7 @@ createdAt: 2026-09-24
 
 # Challenge Description
 
-- Source challenge: [WannaHeap](https://pwnable.tw/challenge/#35)
+- Source challenge: [WannaHeap](https://pwnable.tw/challenge/#28)
 
 ## File Type
 
