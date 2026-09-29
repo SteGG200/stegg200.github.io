@@ -21,13 +21,12 @@ wannaheap: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically 
 
 ```bash
 $ checksec wannaheap
-[*] './bin/wannaheap'
+[*] './wannaheap'
     Arch:       amd64-64-little
     RELRO:      Full RELRO
     Stack:      Canary found
     NX:         NX enabled
     PIE:        PIE enabled
-    RUNPATH:    b'././lib'
     FORTIFY:    Enabled
 ```
 
