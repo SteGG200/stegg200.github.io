@@ -1,10 +1,9 @@
 ---
 title: WannaHeap - pwnable.tw
 tags:
-
-- binary exploit
-- pwnable.tw
-  createdAt: 2026-09-24
+  - binary exploit
+  - pwnable.tw
+createdAt: 2026-09-24
 ---
 
 # Challenge Description
